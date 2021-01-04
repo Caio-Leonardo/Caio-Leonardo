@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caio-leonardo&show_icons=true&locale=en&layout=compact" alt="caio-leonardo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-leonardo&show_icons=true&locale=en" alt="caio-leonardo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=caio-leonardo&show_icons=true&locale=en" alt="caio-leonardo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caio-leonardo&" alt="caio-leonardo" /></p>
