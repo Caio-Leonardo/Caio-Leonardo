@@ -30,7 +30,7 @@ More about me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caioleonardopm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/caioleonardopm/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/caioleonardopm/" target="blue"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/caioleonardopm/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kaio.leonardo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kaio.leonardo/" height="30" width="40" /></a> 
 <a href="https://youtube.com/channel/UC0gVf_w8UveT4WtxH7K0jRA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube.com/channel/uc0gvf_w8uvet4wtxh7k0jra" height="30" width="40" /></a>
 </p>
