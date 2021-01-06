@@ -24,4 +24,4 @@ More about me:
 </details>
 <br/>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Caio-Leonardo)](https://github.com/Caio-Leonardo)
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Caio-Leonardo)](https://github.com/Caio-Leonardo)
