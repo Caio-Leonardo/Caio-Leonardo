@@ -4,7 +4,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/kaio.leonardo/)](https://www.instagram.com/kaio.leonardo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiomorais02gmail.com)](mailto:kaiomorais02gmail.com)
 
+
+
 I'm Caio Leonardo, a 21 year old and graduate in information technology from Brazil and I am interested in activities involving teaching and scientific dissemination, space exploration, and everything in-between. I love to learn and contribute in any and every possible way. (The answer to everything is 42!)
+
+
 
 More about me:
 - :rocket: I’m currently working on Erro 404 not found :smile:
