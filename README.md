@@ -6,7 +6,7 @@
 
 
 
-I'm Caio Leonardo, a 21 year old and graduate in information technology from Brazil and I am interested in activities involving teaching and scientific dissemination, space exploration, and everything in-between. I love to learn and contribute in any and every possible way. (The answer to everything is 42!)
+Hi, i´m Caio, i have a degree in information technology management and a postgraduate qualification in artificial intelligence, machine learning and data science. I'm currently studying for a postgraduate qualification in public law and the judiciary. I work as an administrative assistant at the Court of Justice of the State of Piaui. 
 
 
 
