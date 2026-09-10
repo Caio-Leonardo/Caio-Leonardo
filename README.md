@@ -17,7 +17,7 @@ I am a professional operating at the intersection of **Technology, Data Science,
 - 🧠 **Specialization:** Postgraduate in Artificial Intelligence, Machine Learning, and Data Science.
 - 📜 **Current Focus:** Postgraduate studies in Public Law and the Judiciary.
 - 🚀 **Current Project:** `Error 404: Sleep Not Found` 😄
-- 🌌 **Fun Fact:** Huge fan of *The Mandalorian* (This is the way).
+- 🏎️ **Hyperfocus:** Cars, engines, racing, and everything automotive.
 
 ---
 
