@@ -49,8 +49,8 @@ I am a professional operating at the intersection of **Technology, Data Science,
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Leonardo&show_icons=true&theme=neutral&hide_border=true" alt="Caio's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Leonardo&layout=compact&theme=neutral&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-Leonardo&theme=github_dark" alt="Caio's GitHub Stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-Leonardo&theme=github_dark" alt="Top Languages" height="160" />
 </p>
 
 ---
